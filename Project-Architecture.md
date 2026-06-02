@@ -1,20 +1,2 @@
 # Project Architecture
-
-User Devices
-     |
-     v
-Microsoft Intune
-     |
-     +--> Device Enrollment
-     |
-     +--> Compliance Policies
-     |
-     +--> Configuration Profiles
-     |
-     +--> Application Deployment
-     |
-     +--> BitLocker Encryption
-     |
-     +--> Conditional Access
-     |
-     +--> Monitoring & Reporting
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0753f838-152d-4379-9a95-a91dcb41c914" />
